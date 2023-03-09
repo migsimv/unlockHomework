@@ -1,0 +1,20 @@
+
+.submit-container {
+  font-size: 1.2em;
+  margin-top: 20px;
+  text-align: center;
+}
+
+button[type="submit"] {
+  border-radius: 14px;
+}
+
+input[type="text"] {
+  text-align: center;
+  height: 10vh;
+  width: 100%;
+  margin-top: 60px;
+  display: flex;
+
+}
+

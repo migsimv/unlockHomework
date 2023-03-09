@@ -1,0 +1,39 @@
+@keyframes bgcolor {
+  0% {
+      background-color: #9DF7FC
+  }
+
+  30% {
+      background-color: #E0E3F0
+  }
+
+  60% {
+      background-color: #E8DFB5
+  }
+
+  90% {
+      background-color: #FCB79D
+  }
+
+  100% {
+      background-color: #F4D7E1
+  }
+}
+
+body {
+  -webkit-animation: bgcolor 20s infinite;
+  animation: bgcolor 10s infinite;
+  -webkit-animation-direction: alternate;
+  animation-direction: alternate;
+}
+.contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  height: 70vh; 
+}
+ 
+
+ 

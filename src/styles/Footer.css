@@ -1,0 +1,14 @@
+.footer {
+    background-color: #3B2D31;
+    text-align: center;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    min-height: 5vh;
+    opacity: 0.2
+  }
+  
+  .footer p {
+    color: white;
+  }
+
